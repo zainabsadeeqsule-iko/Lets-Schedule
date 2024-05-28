@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "fullname": "Patrik Radkow",
+    "email": "magicpan@example.gg",
+    "faculty": "magicpan",
+    "department": "user"
+  },
+  {
+    "id": 2,
+    "fullname": "Martin Hoff",
+    "email": "niceadmin@mail.com",
+    "faculty": "magicpan",
+    "department": "user"
+  },
+  {
+    "id": 3,
+    "fullname": "Liz Macintosh",
+    "email": "ebrown@gmail.com",
+    "faculty": "magicpan",
+    "department": "user"
+  },
+  {
+    "id": 4,
+    "fullname": "M2",
+    "email": "mrm@gmail.com",
+    "faculty": "magicpan",
+    "department": "user"
+  },
+  {
+    "id": 5,
+    "fullname": "Kevin Smith",
+    "email": "kevin@gmail.com",
+    "faculty": "magicpan",
+    "department": "user"
+  },
+  {
+    "id": 6,
+    "fullname": "Martin Hoff",
+    "email": "martin@gmail.com",
+    "faculty": "magicpan",
+    "department": "user"
+  },
+  {
+    "id": 7,
+    "fullname": "John Doe",
+    "email": "john@mail.com",
+    "faculty": "magicpan",
+    "department": "user"
+  },
+  {
+    "id": 8,
+    "fullname": "Maksim Nedo",
+    "email": "maksim@epic.com",
+    "faculty": "magicpan",
+    "department": "user"
+  },
+  {
+    "id": 9,
+    "fullname": "Dmitry Kuzmenko",
+    "email": "dd@pp.com",
+    "faculty": "magicpan",
+    "department": "user"
+  },
+  {
+    "id": 10,
+    "fullname": "Rayan Gosling",
+    "email": "rayan@u.ua",
+    "faculty": "magicpan",
+    "department": "user"
+  }
+]

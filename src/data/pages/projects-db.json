@@ -1,0 +1,18 @@
+[
+  {
+    "id": 0,
+    "project_name": "Vuestic",
+    "project_owner": 13,
+    "team": [13, 5, 28, 14, 17, 28, 23, 11, 16, 19, 12, 28, 11],
+    "status": "in progress",
+    "creation_date": "20 Nov 2023"
+  },
+  {
+    "id": 1,
+    "project_name": "Mood board",
+    "project_owner": 28,
+    "team": [28, 10, 12, 28, 14, 27, 5, 4, 8, 23, 19, 18, 24, 11, 18, 12, 28],
+    "status": "important",
+    "creation_date": "16 Oct 2023"
+  }
+]
